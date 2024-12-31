@@ -1,6 +1,6 @@
 <div align="center"> 
   
-> <h1 style="color: #008000">Welcome to CSE330 GitHub Organization</h1>
+> <h1 style="color: #008000">Welcome to CSE330 Operating Systems Team</h1>
 
 </div>
 
